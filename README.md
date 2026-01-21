@@ -6,7 +6,7 @@ This work proposes a multimodal biometric verification framework based on Siames
 - **iris-unimodal-code.ipynb**  
   Unimodal biometric verification model using iris images based on a Siamese network trained with triplet loss.
 
-  - **palm-unimodal-code.ipynb**  
+- **palm-unimodal-code.ipynb**  
   Unimodal biometric verification model using hand (palm) images based on a Siamese network trained with triplet loss.
 
 - **proposed-multimodal-model.ipynb**  
@@ -15,7 +15,7 @@ This work proposes a multimodal biometric verification framework based on Siames
 - **proposed_model_architecture.png**  
   Visual illustration of the proposed multimodal gated Siamese architecture.
   
-  - **siamese_model_workflow_diagram.png**  
+- **siamese_model_workflow_diagram.png**  
   Workflow diagram illustrating the Siamese metric learning pipeline for biometric verification.
 ## First, Run
 
