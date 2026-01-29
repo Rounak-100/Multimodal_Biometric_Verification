@@ -1,4 +1,4 @@
-# Multimodal Breast Cancer Classification
+# Multimodal Biometric Verification Using Gated Siamese Networks
 ## Proposed Approach
 This work proposes a multimodal biometric verification framework based on Siamese metric learning that integrates hand and iris modalities. Modality-specific Siamese networks with EfficientNet-B0 backbones are used to extract discriminative embeddings, which are projected into a normalized feature space and trained using triplet loss. For multimodal verification, hand and iris embeddings are combined through a gated feature-level fusion mechanism that adaptively balances modality contributions. The fused representation is optimized to minimize intra-class variation while maximizing inter-class separability, enabling robust and scalable unimodal and multimodal biometric verification.
 ## Files
